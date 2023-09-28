@@ -1,2 +1,2 @@
-# BLACK-LIST.json
+# BLACK-LIST
 BLACK-LIST.json
